@@ -1,0 +1,3 @@
+cd
+./mods gputest.js -dev all -adc_cal_check_ignore -adc_temp_err_check_ignore -devid_check_ignore -vfe_version_check_ignore -timeout_ms 5000 -skip_azalia_init -fslib_mode_debug -disable_intr_illegal_compstat_access 1 -fb_hbm_skip_init -mobile -fundamental_reset -ignore_ot_event -matsinfo -skip_pertest_pexcheck -disable_pex_link_sanity_check -bg_int_temp 1000 -bg_core_voltage 1000 -bg_power 1000 -bg_print_ms 6000 -bg_clocks Gpu.ClkGpc 1000 -ignore_ot_event -bg_bjt_temp 1000 -bg_dram_temp 1000 -dump_stats -clk_mhz dram +0pct,0.all -clk_mhz dram +0pct,1.all -clk_mhz dram +0pct,2.all -clk_mhz dram +0pct,3.all -clk_mhz dram +0pct,5.all -clk_mhz dram +0pct,8.all -enable_override_ovoc -test 6 -loops 10
+

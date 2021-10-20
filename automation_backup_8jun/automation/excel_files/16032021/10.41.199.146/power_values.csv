@@ -1,0 +1,45 @@
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+13:36:09,0,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11980.870581000001,Voltages(V),Current(mA),54.10,25389.257479
+13:36:09,0,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,13408.386898,Voltages(V),Current(mA),54.10,25389.257479
+13:36:09,0,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3020.505135,Voltages(V),Current(mA),54.10,6272.353191
+13:36:09,0,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3251.848056,Voltages(V),Current(mA),54.10,6272.353191
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+16:52:28,0,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11500.937424000002,Voltages(V),Current(mA),53.35,24324.655149000002
+16:52:28,0,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12823.717725,Voltages(V),Current(mA),53.35,24324.655149000002
+16:52:28,0,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3023.301275,Voltages(V),Current(mA),53.35,6270.926659
+16:52:28,0,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3247.625384,Voltages(V),Current(mA),53.35,6270.926659
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+17:09:19,1,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11473.731376,Voltages(V),Current(mA),52.18,24272.773996
+17:09:19,1,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12799.04262,Voltages(V),Current(mA),52.18,24272.773996
+17:09:19,1,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3042.2379840000003,Voltages(V),Current(mA),52.18,6298.595080000001
+17:09:19,1,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3256.357096,Voltages(V),Current(mA),52.18,6298.595080000001
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+17:25:59,2,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11144.859336000001,Voltages(V),Current(mA),51.98,23559.526146000004
+17:25:59,2,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12414.66681,Voltages(V),Current(mA),51.98,23559.526146000004
+17:25:59,2,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3020.46121,Voltages(V),Current(mA),51.98,6266.074482
+17:25:59,2,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3245.613272,Voltages(V),Current(mA),51.98,6266.074482
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+17:42:39,3,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11180.47932,Voltages(V),Current(mA),52.05,23640.034155
+17:42:39,3,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12459.554835,Voltages(V),Current(mA),52.05,23640.034155
+17:42:39,3,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3029.10063,Voltages(V),Current(mA),52.05,6280.417398
+17:42:39,3,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3251.316768,Voltages(V),Current(mA),52.05,6280.417398
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+17:59:18,4,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11220.097968,Voltages(V),Current(mA),52.25,23615.918223
+17:59:18,4,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12395.820255,Voltages(V),Current(mA),52.25,23615.918223
+17:59:18,4,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3039.536328,Voltages(V),Current(mA),52.25,6292.94308
+17:59:18,4,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3253.406752,Voltages(V),Current(mA),52.25,6292.94308
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+18:15:55,5,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11163.952512,Voltages(V),Current(mA),52.05,23581.913067
+18:15:55,5,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12417.960555,Voltages(V),Current(mA),52.05,23581.913067
+18:15:55,5,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3022.48929,Voltages(V),Current(mA),52.05,6272.090362000001
+18:15:55,5,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3249.6010720000004,Voltages(V),Current(mA),52.05,6272.090362000001
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+18:32:34,6,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11189.664072,Voltages(V),Current(mA),52.06,23592.200127
+18:32:34,6,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12402.536055,Voltages(V),Current(mA),52.06,23592.200127
+18:32:34,6,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3021.6045149999995,Voltages(V),Current(mA),52.06,6276.600106999999
+18:32:34,6,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3254.9955919999998,Voltages(V),Current(mA),52.06,6276.600106999999
+time,shmoo_index,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+18:49:11,7,0,GA104,FBVDD_GPU_V_GA104_Samsung ,7000,1200,11253.902616000001,Voltages(V),Current(mA),52.01,23718.966591000004
+18:49:11,7,0,GA104,FBVDD_MEM_V_GA104_Samsung ,7000,1200,12465.063975000001,Voltages(V),Current(mA),52.01,23718.966591000004
+18:49:11,7,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3041.815968,Voltages(V),Current(mA),52.01,6297.793752
+18:49:11,7,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3255.977784,Voltages(V),Current(mA),52.01,6297.793752

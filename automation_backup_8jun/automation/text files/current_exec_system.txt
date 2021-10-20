@@ -1,0 +1,6 @@
+power-2
+root
+nvidian
+power-2
+lab
+labuser

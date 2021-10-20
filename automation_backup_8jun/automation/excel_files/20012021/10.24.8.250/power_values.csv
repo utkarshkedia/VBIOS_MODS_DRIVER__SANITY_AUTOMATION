@@ -1,0 +1,5 @@
+time,iteration,gpu_name,label,mclk,gpcclk,power,unit(V),unit(I),perf,total_fb_power
+12:50:00,0,GA104,FBVDD_GPU_V_GA104_Hynix_1x ,7000,1200,5424.351088,Voltages(V),Current(mA),54.87,25147.019148
+12:50:00,0,GA104,FBVDD_MEM_V_GA104_Hynix_1x ,7000,1200,19722.66806,Voltages(V),Current(mA),54.87,25147.019148
+12:50:00,0,GA104,FBVDD_GPU_V_GA102 ,7000,1200,3330.573701,Voltages(V),Current(mA),54.87,7064.513118
+12:50:00,0,GA104,FBVDD_MEM_V_GA102 ,7000,1200,3733.939417,Voltages(V),Current(mA),54.87,7064.513118

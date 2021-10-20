@@ -1,0 +1,3 @@
+\\builds\prerelease\BIOS
+nvidia
+pc

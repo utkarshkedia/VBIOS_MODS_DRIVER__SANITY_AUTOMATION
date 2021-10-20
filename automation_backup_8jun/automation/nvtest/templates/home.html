@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url('C:\Users\ukedia\Desktop\modules\nvtest\templates\NVIDIA_WireEye_Center_3840x2160.jpg');
+}
+</style>
+</head>
+<body>  
+<form action="test" method="post">
+	{% csrf_token %}
+	Enter id : <input type="string" name="id"><br>
+    <br>
+    <br>
+    OR
+    <br>
+    <br>
+    For a specific GPU, enter the complete directory path(along with the ROM name): <input type = "string" name="directory"><br>
+    <br>
+    <br>
+    <br>
+    <br>
+	<input type="checkbox" name="cl_shmoo" value="cl_shmoo" id="cl_shmoo">
+    <label for="cl_shmoo">Select the checkbox if shmoo needed is change list based</label><br>
+	Regardless if shmoo needed:<br>
+	Enter initial ROM version number: <input type = "string" name="shmoo_initial"><br>
+	Enter final ROM version number: <input type = "string" name="shmoo_final"><br>
+	<br>
+	<br>
+    Enter the id(s) of the test system : <input type = "string" name="hostname"><br>
+    <br>
+	Enter the ids(s) in windows in the same order(if needed) : <input type = "string" name="win_hostname"><br>
+    <br>
+    <br>
+    <br>
+    Mods_family(ex.:R400,R450) : <input type = "string" name="Mods_family"><br>
+    <br>
+    <br>
+	If MODS shmoo needed, enter the initial and final version number:<br>
+	Enter initial version number:<input type = "string" name="mods_shmoo_initial"><br>
+	Enter final version number:<input type = "string" name="mods_shmoo_final"><br>
+	<br>
+	<br>
+	If Driver shmoo needed, enter the initial and final version:<br>
+	Enter initial version number:<input type = "string" name="driver_shmoo_initial"><br>
+	Enter final version number:<input type = "string" name="driver_shmoo_final"><br>
+	<br>
+	<br>
+    Select the test:<br>
+    <input type="checkbox" name="Test0" value="MODS init" id="Test0">
+    <label for="Test0">Perform MODS init test</label>
+    -Also select the over riding parameters
+    <input type="checkbox" name="param0" value="-4" id="param0">
+    <label for="param0">-4 (for nvflash)</label>
+    <input type="checkbox" name="param1" value="-5" id="param1">
+    <label for="param1">-5 (for nvflash)</label>
+    <input type="checkbox" name="param2" value="-6" id="param2">
+    <label for="param2">-6 (for nvflash)</label>
+    <input type="checkbox" name="param3" value="-A" id="param3">
+    <label for="param3">-A (for MODS initialisation) </label><br>
+    <input type="checkbox" name="Test1" value="Test1" id="Test1">
+    <label for="Test1">Perform Test1</label> <br>
+    <input type="checkbox" name="Test2" value="Test2" id="Test2">
+    <label for="Test2">Perform Test2</label> <br> 
+	<input type="checkbox" name="Test3" value="Test3" id="Test3">
+    <label for="Test3">Perform Test3</label> <br> 
+	<input type="checkbox" name="Test4" value="Test4" id="Test4">
+    <label for="Test4">Perform Test4</label> <br> 
+	<input type="checkbox" name="Test5" value="Test5" id="Test5">
+    <label for="Test5">Perform Test5</label> <br> 
+	<input type="checkbox" name="Test6" value="Test6" id="Test6">
+    <label for="Test6">Perform Test6</label> <br> 
+	<input type="checkbox" name="Test7" value="Test7" id="Test7">
+    <label for="Test7">Perform Test7</label> <br> 
+	<input type="checkbox" name="Test8" value="Test8" id="Test8">
+    <label for="Test8">Perform Test8</label> <br> 
+	<input type="checkbox" name="Test9" value="Test9" id="Test9">
+    <label for="Test9">Perform Test9</label> <br> 
+	<input type="checkbox" name="Test10" value="Test10" id="Test10">
+    <label for="Test10">Select if no test is needed in linux</label>
+    <br>
+    Enter current working directory(default: /mnt/storage/mods): <input type = "string" name="cwd"><br>
+	<br>
+	If you want to continue for power measurement tests in windows, enter the details further<br>
+	<br>
+	Enter the id for measurement system : <input type = "string" name="meas_id"><br><br>
+	NVVDD VALUE -- <input type = "string" name="nvvdd"><br>
+	GPCCLK RANGE(MHz) -- FROM:<input type = "string" name="gpcclk_from"> TO:<input type = "string" name="gpcclk_to"> STEP:<input type = "string" name="gpcclk_step"><br>
+	MCLK RANGE(MHz)   -- FROM:<input type = "string" name="mclk_from">   TO:<input type = "string" name="mclk_to"> STEP:<input type = "string" name="mclk_step"><br><br>
+	
+	Select the apps in Autochar that needs to run:<br>
+	<input type="checkbox" name="app1" value="CuDNN" id="app1">
+    <label for="app1">CuDNN</label>
+	<input type="checkbox" name="app2" value="CuBlas" id="app2">
+    <label for="app2">CuBlas</label>
+	<input type="checkbox" name="app3" value="TensorRT" id="app3">
+    <label for="app3">TensorRT</label>
+	<input type="checkbox" name="app4" value="3DMARK11" id="app4">
+    <label for="app4">3DMARK11</label><br>
+	<input type="checkbox" name="app5" value="TIMESPY" id="app5">
+    <label for="app5">TIMESPY</label>
+	<input type="checkbox" name="app6" value="TIMESPY-TEXT" id="app6">
+    <label for="app6">TIMESPY-TEXT</label>
+	<input type="checkbox" name="app7" value="TIMESPY_GT2" id="app7">
+    <label for="app7">TIMESPY_GT2</label>
+	<input type="checkbox" name="app8" value="FIRESTRIKE" id="app8">
+    <label for="app8">FIRESTRIKE</label><br>
+	<input type="checkbox" name="app9" value="VP12" id="app9">
+    <label for="app9">VP12</label>
+	<input type="checkbox" name="app10" value="VP2020" id="app10">
+    <label for="app10">VP2020</label>
+	<input type="checkbox" name="app11" value="IDLE" id="app11">
+    <label for="app11">IDLE</label>
+	<input type="checkbox" name="app12" value="MODS_IDLE" id="app12">
+    <label for="app12">MODS_IDLE</label><br>
+	<input type="checkbox" name="app13" value="Caffe2" id="app13">
+    <label for="app13">Caffe2</label>
+	<input type="checkbox" name="app14" value="MODS_GEMM" id="app14">
+    <label for="app14">MODS_GEMM</label>
+	<input type="checkbox" name="app15" value="MODS_NVLink" id="app15">
+    <label for="app15">MODS_NVLink</label>
+	<input type="checkbox" name="app16" value="MODS_L0Active" id="app16">
+    <label for="app16">MODS_L0Active</label><br>
+	<input type="checkbox" name="app17" value="NVMT_CUDA" id="app17">
+    <label for="app17">NVMT_CUDA</label>
+	<input type="checkbox" name="app18" value="STREAM" id="app18">
+    <label for="app18">STREAM</label>
+	<input type="checkbox" name="app19" value="MODS_Test" id="app19">
+    <label for="app19">MODS_Test</label>
+	<input type="checkbox" name="app20" value="VLC" id="app20">
+    <label for="app20">VLC</label><br>
+	<input type="checkbox" name="app21" value="MODS_INTERACTIVE_IDLE" id="app21">
+    <label for="app21">MODS_INTERACTIVE_IDLE</label><br><br>
+	
+	<input type="checkbox" name="reg_write" value="reg_write" id="reg_write">
+    <label for="reg_write">Select the checkbox if register write is needed</label><br>
+	
+	Enter the register's relative address and value (add1:value1,add2:value2,add3:value3........) for every iteration<br>
+	Example- 0x009a0890:0xEE213F88,0x009a0891:0xEE213F80.......<br>
+	Leave blank if the iteration is not needed<br>
+	Iteration1:<input type = "string" name="iteration1"><br>
+	Iteration2:<input type = "string" name="iteration2"><br>
+	Iteration3:<input type = "string" name="iteration3"><br>
+	Iteration4:<input type = "string" name="iteration4"><br>
+	Iteration5:<input type = "string" name="iteration5"><br>
+	Iteration6:<input type = "string" name="iteration6"><br>
+	Iteration7:<input type = "string" name="iteration7"><br>
+	Iteration8:<input type = "string" name="iteration8"><br>
+	Iteration9:<input type = "string" name="iteration9"><br>
+	Iteration10:<input type = "string" name="iteration10"><br><br>
+	Select the parameter based on which regression needs to be done:<br>
+	<input type="checkbox" name="testtype1" value="Power" id="testtype1">
+    <label for="testtype1">Power</label>
+	>>Enter the probable power value(mw):<input type ="string" name = "power"><br>
+	<input type="checkbox" name="testtype2" value="Mods" id="testtype2">
+    <label for="testtype2">ModsTest</label><br><br>
+	
+	
+	<input type="submit">
+</form>
+
+</body></html>

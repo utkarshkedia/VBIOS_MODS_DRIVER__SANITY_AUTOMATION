@@ -1,0 +1,274 @@
+Test0:failed initialisation for power-2 on 26052021 at 16:45:04 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.18
+Out of bounds power measurement forpower-2 on 26052021 at 16:45:04 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 18:11:12 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.17
+Out of bounds power measurement forpower-2 on 26052021 at 18:11:12 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 18:29:27 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.18
+Out of bounds power measurement forpower-2 on 26052021 at 18:29:27 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 19:57:08 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.17
+Out of bounds power measurement forpower-2 on 26052021 at 19:57:08 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 20:15:21 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.18
+Out of bounds power measurement forpower-2 on 26052021 at 20:15:21 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.61.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 20:33:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.17
+Out of bounds power measurement forpower-2 on 26052021 at 20:33:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 20:51:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.18
+Out of bounds power measurement forpower-2 on 26052021 at 20:51:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.62.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:28:01 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:29:12 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:30:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:31:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:32:26 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:33:29 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:34:34 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:35:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:36:42 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:37:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:38:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:39:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:40:47 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:41:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:42:56 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:43:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:44:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:46:01 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 26052021 at 21:47:08 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 26052021 at 21:48:11 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:00:29 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:01:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:02:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:03:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:04:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:05:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:06:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:07:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:08:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:09:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:10:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:11:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:12:41 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:13:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:14:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:15:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 27052021 at 10:16:38 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 27052021 at 10:17:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 27052021 at 10:18:15
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 27052021 at 10:18:15
+Test0:failed initialisation for power-2 on 28052021 at 10:00:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:01:37 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:02:56 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:03:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:04:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:05:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:06:50 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:07:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:08:47 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:09:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:10:41 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:11:38 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:12:34 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:13:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 28052021 at 10:14:29 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:15:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 28052021 at 10:16:08
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 28052021 at 10:16:08
+Test0:failed initialisation for power-2 on 28052021 at 10:16:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 28052021 at 10:17:27 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:02:02 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:03:18 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:04:35 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:05:35 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:06:35 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:07:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:08:33 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:09:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:10:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:11:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:12:26 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:13:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:14:26 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:15:21 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:16:17 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:17:18 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 29052021 at 10:18:16 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 29052021 at 10:19:17 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 29052021 at 10:19:56
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 29052021 at 10:19:56
+Test0:failed initialisation for power-2 on 30052021 at 10:00:34 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:01:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:02:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:03:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:04:59 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:05:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:06:59 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:07:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:08:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:09:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:10:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:11:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:12:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:13:41 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 30052021 at 10:14:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:15:41 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 30052021 at 10:16:20
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 30052021 at 10:16:21
+Test0:failed initialisation for power-2 on 30052021 at 10:16:42 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 30052021 at 10:17:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:00:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:01:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:03:06 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:04:05 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:05:06 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:06:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:07:05 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:08:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:09:06 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:10:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:11:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:12:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:13:07 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:14:03 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:15:03 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:16:02 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 31052021 at 10:17:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 31052021 at 10:18:02 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 31052021 at 10:18:41
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 31052021 at 10:18:41
+Test0:failed initialisation for power-2 on 01062021 at 10:00:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:01:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:02:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:03:59 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:05:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:05:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:06:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:07:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:09:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:10:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:10:56 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:11:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:12:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:13:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 01062021 at 10:14:38 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:15:37 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 01062021 at 10:16:17
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 01062021 at 10:16:17
+Test0:failed initialisation for power-2 on 01062021 at 10:16:33 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 01062021 at 10:17:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:00:31 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:01:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:03:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:03:56 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:04:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:05:53 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:06:53 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:07:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:08:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:09:53 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:10:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:11:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:12:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:13:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:14:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:15:38 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 02062021 at 10:16:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 02062021 at 10:17:37 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 02062021 at 10:18:16
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 02062021 at 10:18:16
+Test0:failed initialisation for power-2 on 03062021 at 10:00:35 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:01:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:03:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:04:00 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:05:03 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:06:02 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:06:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:07:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:08:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:09:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:10:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:11:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:12:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:13:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 03062021 at 10:14:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:15:41 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 03062021 at 10:16:20
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 03062021 at 10:16:20
+Test0:failed initialisation for power-2 on 03062021 at 10:16:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 03062021 at 10:17:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:00:30 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:01:50 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:03:10 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:04:13 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:05:12 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:06:16 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:07:17 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:08:15 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:09:15 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:10:15 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:11:11 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:12:12 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:13:13 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:14:14 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:15:16 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:16:17 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 04062021 at 10:17:15 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 04062021 at 10:18:13 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 04062021 at 10:18:53
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 04062021 at 10:18:54
+Test0:failed initialisation for power-2 on 05062021 at 10:00:30 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:01:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:02:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:03:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:04:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:05:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:06:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:07:51 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:08:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:09:50 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:10:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:11:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:12:48 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:13:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 05062021 at 10:14:47 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:15:45 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 05062021 at 10:16:26
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 05062021 at 10:16:27
+Test0:failed initialisation for power-2 on 05062021 at 10:16:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 05062021 at 10:17:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:00:30 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:01:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:02:57 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:03:59 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:04:56 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:05:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:06:55 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:07:53 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:08:47 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:09:46 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:10:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:11:43 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:12:42 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:13:40 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:14:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:15:34 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 06062021 at 10:16:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 06062021 at 10:17:33 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.58.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 06062021 at 10:18:13
+everything is upto date for power-2 for VBIOS version 94.04.59.00.00 on 06062021 at 10:18:13
+Test0:failed initialisation for power-2 on 07062021 at 10:00:30 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:01:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.50.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:02:58 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:03:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.51.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:04:54 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:05:52 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.52.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:06:53 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:07:49 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.53.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:08:44 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:09:39 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.54.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:10:36 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:11:35 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.55.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:12:32 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:13:28 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.56.00.00 and 450.4.18
+Test0:failed initialisation for power-2 on 07062021 at 10:14:27 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:15:24 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.57.00.00 and 450.4.18
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 07062021 at 10:16:03
+everything is upto date for power-2 for VBIOS version 94.04.58.00.00 on 07062021 at 10:16:03
+Test0:failed initialisation for power-2 on 07062021 at 10:16:25 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.17
+Test0:failed initialisation for power-2 on 07062021 at 10:17:24 with GA104 e4735 4735_0010_pc0_m.rom for VBIOS version 94.04.59.00.00 and 450.4.18
